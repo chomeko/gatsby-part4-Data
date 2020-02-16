@@ -7,4 +7,6 @@
 ## npm install --save gatsby-plugin-manifest
 # サービスワーカーの使用
 ## npm install --save gatsby-plugin-offline
+# メタデータ追加
+## npm install --save gatsby-plugin-react-helmet react-helmet
 
