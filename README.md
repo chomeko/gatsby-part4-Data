@@ -1,2 +1,6 @@
-# npm install --save gatsby-source-filesystem
-# http://localhost:8001/___graphql
+# クエリ
+## npm install --save gatsby-source-filesystem
+## http://localhost:8001/___graphql
+# マークダウン
+## npm install --save gatsby-transformer-remark
+
