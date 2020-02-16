@@ -36,5 +36,12 @@ module.exports = {
         crossOrigin: `use-credentials`,
       },
     },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        
+      },
+    },
+    'gatsby-plugin-offline'
   ],
 }

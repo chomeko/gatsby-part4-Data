@@ -5,3 +5,6 @@
 ## npm install --save gatsby-transformer-remark
 # マニフェストファイルを追加する
 ## npm install --save gatsby-plugin-manifest
+# サービスワーカーの使用
+## npm install --save gatsby-plugin-offline
+
